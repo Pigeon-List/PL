@@ -55,12 +55,8 @@ export default {
                             <p>{{ level.framerate || 'Any' }}</p>
                         </li>
                         <li>
-                            ><div class="type-title-sm">Version</div>
+                            ><div class="type-title-sm">VERSION</div>
                             <p>{{ level.version || 'Any' }}</p>
-                        </li>
-                        <li>
-                            <div class="type-title-sm">Spam</div>
-                            <p>{{ level.spam || 'No' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
